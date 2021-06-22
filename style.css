@@ -1,0 +1,70 @@
+body{
+    text-align: center;
+    background-image:url("https://img.freepik.com/free-photo/kraft-paper-cardboard-texture-background_144130-182.jpg?size=626&ext=jpg");
+    
+
+}
+h2{
+color:darkblue;
+    font-size: 25px;
+}
+h3{
+   color:darkblue;
+    }
+h4{
+    color: black;
+}
+
+h1 {
+    color: black;
+    font-family:serif;
+    font-weight: bold;
+
+}
+h9{
+    font-size: 28px;
+    background-image:url(https://i.gifer.com/VKDX.gif);
+    color: crimson;
+    font-family: cursive;
+  
+}
+h8{
+    font-size: 25px;
+    background-image:url(https://i.gifer.com/VKDX.gif);
+    color: crimson;
+    font-family: cursive;
+}
+h7{
+ font-size: 25px;
+    background-image:url(https://thumbs.gfycat.com/ImpressiveWhoppingLemur-max-1mb.gif);
+    color: crimson;
+    font-family: cursive;   
+}
+h5{
+    font-family:serif;
+    font-size: 30px;
+}
+h10{
+    font-size: 20px;
+    color: mediumpurple;
+}
+h6{
+    font-size: 18px;
+    font-family: serif;
+        
+}
+hr{
+    color: darkblue;
+}
+h11{
+    font-family:serif;
+    font-size: 25px;
+    
+}
+#welcome {
+    
+      position: center;
+}
+.active{
+    position: fixed;
+}
